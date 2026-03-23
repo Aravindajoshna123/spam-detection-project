@@ -33,3 +33,5 @@ Output: Spam
 
 ## 👩‍💻 Author
 Your Name
+
+<img width="906" height="686" alt="image" src="https://github.com/user-attachments/assets/402d7187-1fe0-40fc-8d03-22e9bf90cd37" />
